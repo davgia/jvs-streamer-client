@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> JVS Streamer</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_running">Running</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="status_server_error">Server error</string>
+    <string name="status_network_error">Network error</string>
+</resources>
